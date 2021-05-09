@@ -1,2 +1,3 @@
 # econometrics_projects
-A collection of projects conducted in econometrics classes.
+A collection of projects completed in ECON courses.
+
